@@ -1,5 +1,6 @@
 ng new ng01
 ng serve
+ng serve --port=4201
 ng build
 ng build --prod
 ng test
