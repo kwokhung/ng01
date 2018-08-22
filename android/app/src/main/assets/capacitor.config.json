@@ -1,0 +1,6 @@
+{
+  "appId": "com.mblinus.test",
+  "appName": "ng01",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
