@@ -16,3 +16,5 @@ ng help
 
 4. Push Origin Master
 -> git push -u origin master
+
+npm install --save @capacitor/core @capacitor/cli
